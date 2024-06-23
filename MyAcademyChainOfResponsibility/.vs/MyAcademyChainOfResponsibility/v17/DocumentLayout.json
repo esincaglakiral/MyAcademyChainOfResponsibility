@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\chainofresponsibility\\clerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\chainofresponsibility\\clerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\chainofresponsibility\\regionalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\chainofresponsibility\\regionalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\chainofresponsibility\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\chainofresponsibility\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\chainofresponsibility\\assistantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\chainofresponsibility\\assistantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\chainofresponsibility\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\chainofresponsibility\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\models\\customerprocessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\models\\customerprocessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\dataaccess\\entities\\customerprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\dataaccess\\entities\\customerprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|d:\\softwareproject\\myyazilimprojeleri\\myacademychainofresponsibility\\myacademychainofresponsibility\\dataaccess\\context\\cofcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1E529-AEE6-4CE8-ACAB-B0728EB48072}|MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility.csproj|solutionrelative:myacademychainofresponsibility\\dataaccess\\context\\cofcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T18:46:13.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\Controllers\\DefaultController.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:31:30.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegionalManager.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\RegionalManager.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\RegionalManager.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\RegionalManager.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\RegionalManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:28:02.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Manager.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Manager.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Manager.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Manager.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:23:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssistantManager.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\AssistantManager.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\AssistantManager.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\AssistantManager.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\AssistantManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:20:00.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clerk.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Clerk.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Clerk.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Clerk.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Clerk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:10:07.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerProcessViewModel.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\Models\\CustomerProcessViewModel.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\Models\\CustomerProcessViewModel.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\Models\\CustomerProcessViewModel.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\Models\\CustomerProcessViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:06:43.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Employee.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Employee.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Employee.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\ChainOfResponsibility\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:02:41.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\Program.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\Program.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\Program.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:42:58.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\appsettings.json",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\appsettings.json",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\appsettings.json",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T17:39:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoFContext.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\DataAccess\\Context\\CoFContext.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\DataAccess\\Context\\CoFContext.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\DataAccess\\Context\\CoFContext.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\DataAccess\\Context\\CoFContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:28:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerProcess.cs",
+              "DocumentMoniker": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\DataAccess\\Entities\\CustomerProcess.cs",
+              "RelativeDocumentMoniker": "MyAcademyChainOfResponsibility\\DataAccess\\Entities\\CustomerProcess.cs",
+              "ToolTip": "D:\\SoftwareProject\\MYYazilimProjeleri\\MyAcademyChainOfResponsibility\\MyAcademyChainOfResponsibility\\DataAccess\\Entities\\CustomerProcess.cs",
+              "RelativeToolTip": "MyAcademyChainOfResponsibility\\DataAccess\\Entities\\CustomerProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T17:25:11.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
